@@ -1,0 +1,9 @@
+"require": {
+	"cdiscount/sdkphpapi": "1.0.4",
+ 	"zendframework/zend-authentication": "^2.5",
+ 	"zendframework/zend-db": "^2.8",
+ 	"zendframework/zend-soap": "^2.6",
+ 	"zendframework/zend-http": "^2.5",
+ 	"zendframework/zend-log": "^2.9",
+ 	"zendframework/zend-config": "^2.6"
+}
